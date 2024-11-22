@@ -1,0 +1,66 @@
+[
+  {
+    "kind": "column",
+    "name": "Extract Text by Index",
+    "description": "Extracts a string from an array based on the provided index as a string.",
+    "author": "Your Name <your.email@example.com>",
+    "params": [
+      {
+        "name": "index",
+        "displayName": "Index",
+        "type": "string"
+      },
+      {
+        "name": "text1",
+        "displayName": "Text String 1",
+        "type": "string",
+        "optional": true
+      },
+      {
+        "name": "text2",
+        "displayName": "Text String 2",
+        "type": "string",
+        "optional": true
+      },
+      {
+        "name": "text3",
+        "displayName": "Text String 3",
+        "type": "string",
+        "optional": true
+      },
+      {
+        "name": "text4",
+        "displayName": "Text String 4",
+        "type": "string",
+        "optional": true
+      },
+      {
+        "name": "text5",
+        "displayName": "Text String 5",
+        "type": "string",
+        "optional": true
+      },
+      {
+        "name": "text6",
+        "displayName": "Text String 6",
+        "type": "string",
+        "optional": true
+      },
+      {
+        "name": "text7",
+        "displayName": "Text String 7",
+        "type": "string",
+        "optional": true
+      },
+      {
+        "name": "text8",
+        "displayName": "Text String 8",
+        "type": "string",
+        "optional": true
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
